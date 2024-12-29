@@ -1,0 +1,12 @@
+# ninja log v6
+1	179	7571707821853564	build.ninja	4276cc791270e067
+9	72	7571050328394373	CMakeFiles/MultiThread_Sum.dir/functions/file_handling.c.obj	8a2903065ea63c49
+3	90	7571049440128942	CMakeFiles/MultiThread_Sum.dir/functions.c.obj	3685699990e0ee0e
+359	1055	7571020414454137	CMakeFiles/MultiThread_Sum.dir/error_handling.c.obj	d0c6f787ef6315e9
+3	66	7571052074833437	CMakeFiles/MultiThread_Sum.dir/main.c.obj	d2b38ae4f7661ab8
+8	117	7571027359592599	CMakeFiles/MultiThread_Sum.dir/file_handling.c.obj	dccba219b2423c45
+67	138	7571052075474938	MultiThread_Sum.exe	73b201be7f5f9780
+7	82	7571049440168945	CMakeFiles/MultiThread_Sum.dir/list.c.obj	ef7b7132855c95ef
+13	108	7571050328434363	CMakeFiles/MultiThread_Sum.dir/functions/error_handling.c.obj	1115aad68a07492a
+4	73	7571051058140567	CMakeFiles/MultiThread_Sum.dir/functions/lumb_list.c.obj	90038c2edd8dc977
+6	111	7571050328364293	CMakeFiles/MultiThread_Sum.dir/functions/functions.c.obj	1f977588d7b7d8ac

@@ -1,0 +1,4 @@
+D:\JetBrains\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=D:/JetBrains/CLion/bin/ninja/win/x64/ninja.exe -G Ninja -S D:\Personal\MultiThread_Sum -B D:\Personal\MultiThread_Sum\cmake-build-debug
+-- Configuring done (2.5s)
+-- Generating done (0.3s)
+-- Build files have been written to: D:/Personal/MultiThread_Sum/cmake-build-debug
