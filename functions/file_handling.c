@@ -18,6 +18,7 @@ FILE* open_file_v2(const char* file_name)
     if (!file)
     {
         perror("Failed to open file");
+        exit(EXIT_FAILURE);
         return NULL;
     }
 }
