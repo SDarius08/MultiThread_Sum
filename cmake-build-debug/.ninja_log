@@ -10,3 +10,17 @@
 13	108	7571050328434363	CMakeFiles/MultiThread_Sum.dir/functions/error_handling.c.obj	1115aad68a07492a
 4	73	7571051058140567	CMakeFiles/MultiThread_Sum.dir/functions/lumb_list.c.obj	90038c2edd8dc977
 6	111	7571050328364293	CMakeFiles/MultiThread_Sum.dir/functions/functions.c.obj	1f977588d7b7d8ac
+4	107	7578828081912498	CMakeFiles/MultiThread_Sum.dir/functions/functions.c.obj	1f977588d7b7d8ac
+111	434	7578828082987438	MultiThread_Sum.exe	73b201be7f5f9780
+3	78	7578828178645703	CMakeFiles/MultiThread_Sum.dir/main.c.obj	d2b38ae4f7661ab8
+78	157	7578828179399653	MultiThread_Sum.exe	73b201be7f5f9780
+3	71	7578831655845539	CMakeFiles/MultiThread_Sum.dir/main.c.obj	d2b38ae4f7661ab8
+7	93	7578831655887516	CMakeFiles/MultiThread_Sum.dir/functions/functions.c.obj	1f977588d7b7d8ac
+93	169	7578831656746630	MultiThread_Sum.exe	73b201be7f5f9780
+4	78	7578834644680915	CMakeFiles/MultiThread_Sum.dir/main.c.obj	d2b38ae4f7661ab8
+8	95	7578834644716621	CMakeFiles/MultiThread_Sum.dir/functions/functions.c.obj	1f977588d7b7d8ac
+96	178	7578834645590907	MultiThread_Sum.exe	73b201be7f5f9780
+5	68	7578834721695758	CMakeFiles/MultiThread_Sum.dir/main.c.obj	d2b38ae4f7661ab8
+68	142	7578834722326034	MultiThread_Sum.exe	73b201be7f5f9780
+4	65	7578834763102112	CMakeFiles/MultiThread_Sum.dir/main.c.obj	d2b38ae4f7661ab8
+66	140	7578834763729096	MultiThread_Sum.exe	73b201be7f5f9780

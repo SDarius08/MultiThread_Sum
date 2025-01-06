@@ -5,7 +5,7 @@
 int main()
 {
     int fd;
-    size_t n = 4;
+    size_t n = 10;
 
     // -------------------------------------------------------
     fd = open_file("D:\\\\Personal\\\\MultiThread_Sum\\\\test.txt");

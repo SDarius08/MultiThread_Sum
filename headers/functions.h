@@ -8,19 +8,20 @@
 #define _MAX_DIM_VECTOR 1000
 
 #include <pthread.h>
+#include <stdint.h>
 
-typedef struct{
+typedef __uint128_t uint128;
+
+typedef struct {
     int *numbers;
-    int start;
-    int end;
-    long partial_sum;
+    size_t start;
+    size_t end;
+    uint128 partial_sum;
     pid_t pid;
-}thread_data;
+} thread_data;
 
 void* calculate_partial_sum(void *);
-
 void calculate_chunked_sum(size_t, int);
-
-
+void print_uint128(uint128 value);
 
 #endif //MULTITHREAD_SUM_FUNCTIONS_H
