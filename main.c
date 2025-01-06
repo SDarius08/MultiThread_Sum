@@ -4,16 +4,18 @@
 
 int main()
 {
-    int fd;
-    size_t n = 10;
+    size_t n = 2;
+    FILE *file = 0;
+    file = open_file_v2("../test.txt");
+    printf("Introduce the number of threads: ");
+    //scanf("%d",&n);
+    while(n==0 || n>30)
+    {
+        printf("Incorrect number, it must be positive and < 30: ");
+        scanf("%d",&n);
+    }
 
-    // -------------------------------------------------------
-    fd = open_file("D:\\\\Personal\\\\MultiThread_Sum\\\\test.txt");
-    //printf("S-a deschis file-ul: %d\n",fd);
 
-    calculate_chunked_sum(n,fd);
-
-    close_file(&fd);
-    //printf("S-a inchis file-ul: %d\n", fd);
+    calculate_chunked_sumv2(n,file);
     return 0;
 }
