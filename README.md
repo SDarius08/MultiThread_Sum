@@ -6,5 +6,5 @@ TBA
 TBA
 ## Algorithm
 TBA
-## Installing & Compilling
+## How to run locally?
 TBA
