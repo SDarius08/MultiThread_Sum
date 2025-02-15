@@ -17,7 +17,7 @@ This project is designed to explore and compare the efficiency of single-threade
 **Steps**
 + Close the repositoy:
   ```bash
-  `git clone https://github.com/SDarius08/MultiThread_Sum.git | cd MultiThread_Sum
+  git clone https://github.com/SDarius08/MultiThread_Sum.git | cd MultiThread_Sum
 + Run the cmake file with the command cmake
   ```bash
   cmake
