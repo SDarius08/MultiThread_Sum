@@ -10,11 +10,11 @@ This project is designed to explore and compare the efficiency of single-threade
 + Provide a simple yet effective demonstration of concurrent programming.
 
 ## How to run locally?
-###Requirements
+**Requirements**
 + C++11 or later
 + A C++ compiler such as g++ (Linux/macOS) or MinGW (Windows)
 
-### Steps
+**Steps**
 + Close the repositoy:
   ```bash
   `git clone https://github.com/SDarius08/MultiThread_Sum.git | cd MultiThread_Sum
